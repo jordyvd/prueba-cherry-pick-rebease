@@ -1,1 +1,1 @@
-function main(){console.log('console4')};
+function main(){console.log('console5')};
